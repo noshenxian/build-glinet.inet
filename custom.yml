@@ -6,7 +6,7 @@ feeds:
     branch: master
   - name: passwall
     uri: https://github.com/xiaorouji/openwrt-passwall.git
-    branch: master
+    branch: packages
 packages:
   - luci-app-passwall
   - luci-app-ssr-plus
