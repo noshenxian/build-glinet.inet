@@ -4,11 +4,7 @@ feeds:
   - name: helloworld
     uri: https://github.com/fw876/helloworld.git
     branch: master
-  - name: passwall
-    uri: https://github.com/xiaorouji/openwrt-passwall.git
-    branch: packages
 packages:
-  - luci-app-passwall
   - luci-app-ssr-plus
   - luci-app-ddns
   - ddns-scripts
